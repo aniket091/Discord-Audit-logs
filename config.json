@@ -1,0 +1,11 @@
+{
+  "token": "Discord Bot Token",
+  "prefix": "l!",
+  "green": "#4cff4c",
+  "red": "#ff554c",
+  "blue": "BLURPLE",
+  "orange": "#ff854c",
+  "guildID": "791254312339898368",
+  "logChannelID": "866039203538927636",
+  "ignoredChannelsIds": []
+}
